@@ -1,2 +1,2 @@
-# Tkinter-First-Project
+# Tkinter-First-Projects
 Understanding the Basics
